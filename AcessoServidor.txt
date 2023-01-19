@@ -1,0 +1,3 @@
+Server = LAPTOP-OALPPHG5\CAOSMSSQLSERVER; User ID = sa; Database = Usuario; User ID = sa; Password = 12345ca
+
+
